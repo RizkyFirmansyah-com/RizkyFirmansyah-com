@@ -9,7 +9,6 @@ Saya mahasiswa Ilmu Komputer di Universitas Lampung. Saya tertarik dengan pengem
 ## 🚀 Teknologi yang dikuasai:
 - HTML, CSS, JavaScript
 - Python
-- Framework: React, Flask
 
 Mohon bimbingannya ya rekan-rekan
 
