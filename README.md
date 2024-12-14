@@ -16,3 +16,6 @@ Mohon bimbingannya ya rekan-rekan
 
 
 📫 Hubungi saya di (Rizky.Firmansyahh.2308005@gmail.com).
+
+
+<img src="https://github.com/RizkyFirmansyah-com/RizkyFirmansyah-com/blob/main/hand.gif">
