@@ -33,6 +33,7 @@ and if you want to share your experience or chat with me further, check out my o
 <img src= "https://github.com/RizkyFirmansyah-com/RizkyFirmansyah-com/blob/main/Logo/python.png" height="60" width="60">
 <img src= "https://github.com/RizkyFirmansyah-com/RizkyFirmansyah-com/blob/main/Logo/sqlNew.png" height="60" width="70">
 <img src= "https://github.com/RizkyFirmansyah-com/RizkyFirmansyah-com/blob/main/Logo/vs.png" height="60" width="60">
+<img src= "https://github.com/RizkyFirmansyah-com/RizkyFirmansyah-com/blob/main/Logo/NetBeans.png" height="60" width="60">
 
 </div> 
 
