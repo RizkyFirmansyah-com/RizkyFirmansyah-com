@@ -24,7 +24,7 @@ and if you want to share your experience or chat with me further, check out my o
 ## 💪 Bahasa & Tools Sedang Saya Pelajari :
 <div align="center">
 
-<img src="" height="60" width="60">
+<img src="https://github.com/RizkyFirmansyah-com/RizkyFirmansyah-com/blob/main/Logo/java.png" height="60" width="60">
 <img src="https://github.com/RizkyFirmansyah-com/RizkyFirmansyah-com/blob/main/Logo/c%2B%2B.png" height="60" width="60">
 <img src= "https://github.com/RizkyFirmansyah-com/RizkyFirmansyah-com/blob/main/Logo/css.png" height="60" width="60">
 <img src= "https://github.com/RizkyFirmansyah-com/RizkyFirmansyah-com/blob/main/Logo/git.png" height="60" width="60">
