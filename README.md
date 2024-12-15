@@ -29,6 +29,8 @@ Jangan lupa saling silaturahmi ke media sosial saya lainnya!
 [<img align="center" height="40" src="https://img.icons8.com/color/144/000000/linkedin.png"/>](https://www.linkedin.com/in/rizky-firmansyah-17bb62341/)
 [<img align="center" height="40" src= "https://img.icons8.com/?size=100&id=19318&format=png&color=000000"/>](https://www.youtube.com/@Rkyjr)
 
+<img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/>
+
 📫 Hubungi saya di (Rizky.Firmansyahh.2308005@gmail.com).
 
 
