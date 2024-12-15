@@ -49,18 +49,18 @@ Jangan lupa saling silaturahmi ke media sosial saya lainnya!
 @@       o o                                           @@
 @@       | |                                           @@
 @@      _L_L_                                          @@
-@@   ❮\/__-__\/❯ Programming isn't about what you know @@
-@@   ❮(|~o.o~|)❯  It's about what you can figure out   @@
+@@   ❮\/__-__\/❯   Nothing is perfect in this world.   @@
+@@   ❮(|~o.o~|)❯                                       @@
 @@   ❮/ \`-'/ \❯                                       @@
 @@     _/`U'\_                                         @@
 @@    ( .   . )     .----------------------------.     @@
-@@   / /     \ \    | while( ! (succeed=try() ) ) |     @@
+@@   / /     \ \    | while( ! (succeed=try() ) ) |    @@
 @@   \ |  ,  | /    '----------------------------'     @@
 @@    \|=====|/                                        @@
 @@     |_.^._|                                         @@
 @@     | |"| |                                         @@
-@@     ( ) ( )   Testing leads to failure              @@
-@@     |_| |_|   and failure leads to understanding    @@
+@@     ( ) ( )   Keep dreaming as high as possible     @@
+@@     |_| |_|   until you fall in the highest star    @@
 @@ _.-' _j L_ '-._                                     @@
 @@(___.'     '.___)                                    @@
 +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
