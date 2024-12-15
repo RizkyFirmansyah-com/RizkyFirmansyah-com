@@ -9,7 +9,7 @@
 
 
 
-Mohon bimbingannya ya rekan-rekan
+
 
 ## Programming Languages Sedang Saya Pelajari :
 
