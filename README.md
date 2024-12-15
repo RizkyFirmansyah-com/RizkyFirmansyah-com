@@ -2,7 +2,7 @@
 
 
 
-<h1 align="center"> Hello Semuanya 👋 </h1>
+<h1 align="center"> Hello Semuanya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"> </h1>
 
 
 
