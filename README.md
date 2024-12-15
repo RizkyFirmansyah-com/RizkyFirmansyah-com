@@ -11,7 +11,7 @@
 
 
 
-## Bahasa & Tools Sedang Saya Pelajari :
+## 💪 Bahasa & Tools Sedang Saya Pelajari :
 <div align="center">
 
 <img src="https://github.com/RizkyFirmansyah-com/RizkyFirmansyah-com/blob/main/Logo/JS.png" height="60" width="60">
