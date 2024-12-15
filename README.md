@@ -24,7 +24,8 @@
 <img src= "https://github.com/RizkyFirmansyah-com/RizkyFirmansyah-com/blob/main/Logo/sqlNew.png" height="60" width="60">
 <img src= "https://github.com/RizkyFirmansyah-com/RizkyFirmansyah-com/blob/main/Logo/vs.png" height="60" width="60">
 
-
+<div>
+  
 Jangan lupa  silaturahmi ke media sosial saya lainnya!
 
 [<img align="center" height="40" src="https://img.icons8.com/fluent/144/000000/instagram-new.png"/>](https://www.instagram.com/rkyjr_/?next=%2F)
