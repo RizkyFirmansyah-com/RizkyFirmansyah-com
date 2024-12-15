@@ -14,11 +14,9 @@
 ## Bahasa & Tools Sedang Saya Pelajari :
 <div align="center">
 
-![HTML](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
-![Javascript](https://img.shields.io/badge/-Javascript-ffb400?style=for-the-badge&logo=javascript&logoColor=ffff3f)
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=blue)
-![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
+<img src="" height="60" width="60">
+<img src="" height="60" width="60">
+<img src= "" height="60" width="60">
 
 
 
