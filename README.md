@@ -68,7 +68,7 @@ Jangan lupa saling silaturahmi ke media sosial saya lainnya!
 
 </h4>  
 
-![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](/main/github-contribution-grid-snake.svg)
+![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/RizkyFirmansyah-com/RizkyFirmansyah-com/blob/main/github-contribution-grid-snake.svg)
 
 
 <img src="https://github.com/RizkyFirmansyah-com/RizkyFirmansyah-com/blob/main/hand.gif">
