@@ -10,6 +10,10 @@
 
 “Programming isn’t about what you know; it’s about what you can figure out.”
 
+So welcome to my github, you can see all the Repositories, 
+and if you want to share your experience or chat with me further, check out my other social media below... 
+
+
 
 
 
