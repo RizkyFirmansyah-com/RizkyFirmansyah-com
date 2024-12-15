@@ -14,13 +14,15 @@
 ## Bahasa & Tools Sedang Saya Pelajari :
 <div align="center">
 
-<img src="" height="60" width="60">
-<img src="" height="60" width="60">
-<img src= "" height="60" width="60">
-
-
-
-
+<img src="https://github.com/RizkyFirmansyah-com/RizkyFirmansyah-com/blob/main/Logo/JS.png" height="60" width="60">
+<img src="https://github.com/RizkyFirmansyah-com/RizkyFirmansyah-com/blob/main/Logo/c%2B%2B.png" height="60" width="60">
+<img src= "https://github.com/RizkyFirmansyah-com/RizkyFirmansyah-com/blob/main/Logo/css.png" height="60" width="60">
+<img src= "https://github.com/RizkyFirmansyah-com/RizkyFirmansyah-com/blob/main/Logo/git.png" height="60" width="60">
+<img src= "https://github.com/RizkyFirmansyah-com/RizkyFirmansyah-com/blob/main/Logo/html.png" height="60" width="60">
+<img src= "https://github.com/RizkyFirmansyah-com/RizkyFirmansyah-com/blob/main/Logo/php.png" height="60" width="60">
+<img src= "https://github.com/RizkyFirmansyah-com/RizkyFirmansyah-com/blob/main/Logo/python.png" height="60" width="60">
+<img src= "https://github.com/RizkyFirmansyah-com/RizkyFirmansyah-com/blob/main/Logo/sqlNew.png" height="60" width="60">
+<img src= "https://github.com/RizkyFirmansyah-com/RizkyFirmansyah-com/blob/main/Logo/vs.png" height="60" width="60">
 
 Jangan lupa  silaturahmi ke media sosial saya lainnya!
 
