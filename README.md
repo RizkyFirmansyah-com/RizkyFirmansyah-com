@@ -32,7 +32,7 @@ Jangan lupa saling silaturahmi ke media sosial saya lainnya!
 [<img align="center" height="40" src="https://img.icons8.com/color/144/000000/linkedin.png"/>](https://www.linkedin.com/in/rizky-firmansyah-17bb62341/)
 [<img align="center" height="40" src= "https://img.icons8.com/?size=100&id=19318&format=png&color=000000"/>](https://www.youtube.com/@Rkyjr)
 
-<img align="left" height="300px" width="300px" alt="𝙶𝙸𝙵" src="https://github-readme-streak-stats.herokuapp.com/?user=RizkyFirmansyah-com&theme=dark&locale=id&date_format=M%20j%5B%2C%20Y%5D&type=png)"/>
+<img align="left" height="300px" width="300px" alt="png" src="https://github-readme-streak-stats.herokuapp.com/?user=RizkyFirmansyah-com&theme=dark&locale=id&date_format=M%20j%5B%2C%20Y%5D&type=png)"/>
 
 📫 Hubungi saya di (Rizky.Firmansyahh.2308005@gmail.com).
 
