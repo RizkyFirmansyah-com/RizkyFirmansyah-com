@@ -2,17 +2,18 @@
 
 
 
-# Halo, saya Rizky 👋
+# Halo semua, saya Rizky👋
 
-Saya mahasiswa Ilmu Komputer di Universitas Lampung. Saya tertarik dengan pengembangan aplikasi berbasis web dan mobile 📱.
+Jangan lupa saling silaturahmi ke media sosial saya lainnya!
 
-## 🚀 Teknologi yang dikuasai:
-- HTML, CSS, JavaScript
-- Python
+
 
 Mohon bimbingannya ya rekan-rekan
 
 
+
+![HTML](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 
 📫 Hubungi saya di (Rizky.Firmansyahh.2308005@gmail.com).
 
