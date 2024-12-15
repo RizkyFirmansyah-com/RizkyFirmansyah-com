@@ -12,7 +12,7 @@
 
 
 ## Bahasa & Tools Sedang Saya Pelajari :
-<div align="center"> 
+<div align="center">
 
 <img src="https://github.com/RizkyFirmansyah-com/RizkyFirmansyah-com/blob/main/Logo/JS.png" height="60" width="60">
 <img src="https://github.com/RizkyFirmansyah-com/RizkyFirmansyah-com/blob/main/Logo/c%2B%2B.png" height="60" width="60">
@@ -24,16 +24,18 @@
 <img src= "https://github.com/RizkyFirmansyah-com/RizkyFirmansyah-com/blob/main/Logo/sqlNew.png" height="60" width="60">
 <img src= "https://github.com/RizkyFirmansyah-com/RizkyFirmansyah-com/blob/main/Logo/vs.png" height="60" width="60">
 
-<div>
+</div> 
 
 <h4>
-## Jangan lupa  silaturahmi ke media sosial saya lainnya!
+Jangan lupa  silaturahmi ke media sosial saya lainnya!
 
 [<img align="center" height="40" src="https://img.icons8.com/fluent/144/000000/instagram-new.png"/>](https://www.instagram.com/rkyjr_/?next=%2F)
 [<img align="center" height="40" src="https://img.icons8.com/color/144/000000/linkedin.png"/>](https://www.linkedin.com/in/rizky-firmansyah-17bb62341/)
 [<img align="center" height="40" src= "https://img.icons8.com/?size=100&id=19318&format=png&color=000000"/>](https://www.youtube.com/@Rkyjr)
 
 </h4>
+
+
 ##
 <p align="center">
   <img height="150" width="150" src="https://raw.githubusercontent.com/RizkyFirmansyah-com/RizkyFirmansyah-com/refs/heads/main/left.webp"/>
