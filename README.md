@@ -34,7 +34,7 @@ Jangan lupa saling silaturahmi ke media sosial saya lainnya!
 
 
 <p align="center">
-  <img height="150" width="150" src="WEBP/left.webp"/>
+  <img height="150" width="150" src="https://raw.githubusercontent.com/RizkyFirmansyah-com/RizkyFirmansyah-com/refs/heads/main/left.webp"/>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=RizkyFirmansyah-com&theme=dark&locale=id&date_format=M%20j%5B%2C%20Y%5D&type=png"/>
   <img height="150" width="150" src="WEBP/right.webp"/>
 </p>
