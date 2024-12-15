@@ -61,7 +61,7 @@ Jangan lupa saling silaturahmi ke media sosial saya lainnya!
 @@     | |"| |                                         @@
 @@     ( ) ( )   Keep dreaming as high as possible     @@
 @@     |_| |_|   until you fall in the highest star    @@
-@@ _.-' _j L_ '-._                                     @@
+@@ _.-' _j L_ '-._           - Rkyjr -                 @@
 @@(___.'     '.___)                                    @@
 +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
 ```
