@@ -96,5 +96,3 @@ and if you want to share your experience or chat with me further, check out my o
 
 
 
-
-<img src="https://github.com/RizkyFirmansyah-com/RizkyFirmansyah-com/blob/main/hand.gif">
