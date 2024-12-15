@@ -38,7 +38,6 @@ Jangan lupa saling silaturahmi ke media sosial saya lainnya!
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=RizkyFirmansyah-com&theme=dark&locale=id&date_format=M%20j%5B%2C%20Y%5D&type=png"/>
   <img height="150" width="150" src="WEBP/right.webp"/>
 </p>
-<a href="https://git.io/streak-stats"><img src="" alt="GitHub Streak" /></a>
 
 #
 📫 Hubungi saya di (Rizky.Firmansyahh.2308005@gmail.com).
