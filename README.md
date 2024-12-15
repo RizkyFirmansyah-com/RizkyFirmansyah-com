@@ -11,6 +11,8 @@
 
 Mohon bimbingannya ya rekan-rekan
 
+Programming Languages Sedang Saya Pelajari :
+
 
 
 ![HTML](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
