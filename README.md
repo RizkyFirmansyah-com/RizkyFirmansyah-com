@@ -1,4 +1,5 @@
-<img src="https://github.com/RizkyFirmansyah-com/RizkyFirmansyah-com/blob/main/Retro%20Sparkles%20GIF%20Google%20Classroom%20Header.gif" >
+
+<img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" >
 
 
 
