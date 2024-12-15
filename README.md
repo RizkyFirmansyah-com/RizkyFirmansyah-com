@@ -22,7 +22,7 @@ Mohon bimbingannya ya rekan-rekan
 ![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
 
 
-<img align="center" alt="𝙶𝙸𝙵" src="(https://github-readme-streak-stats.herokuapp.com?user=RizkyFirmansyah-com&theme=dark&locale=id&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)">
+<img align="center" src="(https://github-readme-streak-stats.herokuapp.com?user=RizkyFirmansyah-com&theme=dark&locale=id&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)">
 
 
 
