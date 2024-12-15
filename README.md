@@ -2,6 +2,9 @@
 <img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" >
 
 
+“Programming isn’t about what you know; it’s about what you can figure out.”
+
+
 
 <h1 align="center"> Hello Semuanya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" height="35"> </h1>
 
