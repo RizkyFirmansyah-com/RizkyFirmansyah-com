@@ -13,7 +13,7 @@ Mohon bimbingannya ya rekan-rekan
 
 ## Programming Languages Sedang Saya Pelajari :
 
-
+##
 
 ![HTML](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
@@ -22,17 +22,17 @@ Mohon bimbingannya ya rekan-rekan
 ![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
 
 
-<img align="center" src="(https://github-readme-streak-stats.herokuapp.com?user=RizkyFirmansyah-com&theme=dark&locale=id&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)">
 
 
 
+##
 Jangan lupa saling silaturahmi ke media sosial saya lainnya!
 
 [<img align="center" height="40" src="https://img.icons8.com/fluent/144/000000/instagram-new.png"/>](https://www.instagram.com/rkyjr_/?next=%2F)
 [<img align="center" height="40" src="https://img.icons8.com/color/144/000000/linkedin.png"/>](https://www.linkedin.com/in/rizky-firmansyah-17bb62341/)
 [<img align="center" height="40" src= "https://img.icons8.com/?size=100&id=19318&format=png&color=000000"/>](https://www.youtube.com/@Rkyjr)
 
-
+##
 <p align="center">
   <img height="150" width="150" src="https://raw.githubusercontent.com/RizkyFirmansyah-com/RizkyFirmansyah-com/refs/heads/main/left.webp"/>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=RizkyFirmansyah-com&theme=dark&locale=id&date_format=M%20j%5B%2C%20Y%5D&type=png"/>
