@@ -27,11 +27,7 @@
 </div> 
 
 <h4>
-✌️ Jangan lupa  silaturahmi ke media sosial saya lainnya!
 
-[<img align="center" height="40" src="https://img.icons8.com/fluent/144/000000/instagram-new.png"/>](https://www.instagram.com/rkyjr_/?next=%2F)
-[<img align="center" height="40" src="https://img.icons8.com/color/144/000000/linkedin.png"/>](https://www.linkedin.com/in/rizky-firmansyah-17bb62341/)
-[<img align="center" height="40" src= "https://img.icons8.com/?size=100&id=19318&format=png&color=000000"/>](https://www.youtube.com/@Rkyjr)
 
 </h4>
 
@@ -79,6 +75,13 @@
 
 
 ![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/RizkyFirmansyah-com/RizkyFirmansyah-com/blob/main/github-contribution-grid-snake.svg)
+
+
+✌️ Jangan lupa  silaturahmi ke media sosial saya lainnya!
+
+[<img align="center" height="40" src="https://img.icons8.com/fluent/144/000000/instagram-new.png"/>](https://www.instagram.com/rkyjr_/?next=%2F)
+[<img align="center" height="40" src="https://img.icons8.com/color/144/000000/linkedin.png"/>](https://www.linkedin.com/in/rizky-firmansyah-17bb62341/)
+[<img align="center" height="40" src= "https://img.icons8.com/?size=100&id=19318&format=png&color=000000"/>](https://www.youtube.com/@Rkyjr)
 
 
 <img src="https://github.com/RizkyFirmansyah-com/RizkyFirmansyah-com/blob/main/hand.gif">
