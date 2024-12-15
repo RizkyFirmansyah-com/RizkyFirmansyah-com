@@ -27,6 +27,7 @@ Jangan lupa saling silaturahmi ke media sosial saya lainnya!
 
 [<img align="center" height="40" src="https://img.icons8.com/fluent/144/000000/instagram-new.png"/>](https://www.instagram.com/rkyjr_/?next=%2F)
 [<img align="center" height="40" src="https://img.icons8.com/color/144/000000/linkedin.png"/>](https://www.linkedin.com/in/rizky-firmansyah-17bb62341/)
+<i class="fa fa-youtube-play" style="font-size:48px;color:red"></i>
 
 📫 Hubungi saya di (Rizky.Firmansyahh.2308005@gmail.com).
 
