@@ -5,7 +5,7 @@
 <h1 align="center"> Hello Semuanya 👋 </h1>
 
 
-Jangan lupa saling silaturahmi ke media sosial saya lainnya!
+
 
 
 
@@ -18,6 +18,11 @@ Mohon bimbingannya ya rekan-rekan
 ![Javascript](https://img.shields.io/badge/-Javascript-ffb400?style=for-the-badge&logo=javascript&logoColor=ffff3f)
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=blue)
 
+
+
+Jangan lupa saling silaturahmi ke media sosial saya lainnya!
+
+[<img align="center" height="40" src="https://img.icons8.com/fluent/144/000000/instagram-new.png"/>](https://www.instagram.com/rkyjr_/?next=%2F)
 📫 Hubungi saya di (Rizky.Firmansyahh.2308005@gmail.com).
 
 
