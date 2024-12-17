@@ -47,7 +47,7 @@ and if you want to share your experience or chat with me further, check out my o
 ##
 <p align="center">
   <img height="150" width="150" src="https://raw.githubusercontent.com/RizkyFirmansyah-com/RizkyFirmansyah-com/refs/heads/main/left.webp"/>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=RizkyFirmansyah-com&theme=dark&locale=id&date_format=M%20j%5B%2C%20Y%5D&type=png"/>
+  
   <img height="150" width="150" src="https://raw.githubusercontent.com/RizkyFirmansyah-com/RizkyFirmansyah-com/refs/heads/main/right.webp"/>
 </p>
 
